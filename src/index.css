@@ -1,6 +1,7 @@
 @import "tailwindcss";
 
 * {
-  margin: 0;
-  padding: 0;
+  margin: 60;
+  padding: 30;
+  margin-right: 20;
 }
